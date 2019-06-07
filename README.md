@@ -1,7 +1,7 @@
-# you'll find
--> University assignments of C code
--> Management of pointers in C
--> Data Strcutures libraries + examples
+# You'll find
+-> University assignments of C code\n
+-> Management of pointers in C\n
+-> Data Strcutures libraries + examples\n
 -> Inventory project 
 
 # Warning
