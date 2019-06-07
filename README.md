@@ -5,4 +5,4 @@
 - Inventory project (**data base project using pointers and data structures**)
 
 ## Warning
-*some of the code may not work properly*
+*Most of the code still remains in alpha version, which means that some of it may not work properly*
