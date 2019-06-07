@@ -21,7 +21,7 @@ struct lista
 /*IMPRIMIR LISTA*/
 void printList(lista *cab)
 {
-
+	
 	lista *runner = cab;
 	while (runner)
 	{
