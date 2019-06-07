@@ -32,7 +32,7 @@ int tope(pila *p)
 //APILAR UN ELEMENTO EN PILA
 void apilar(pila **p, int x)
 {
-	
+
 
 	pila *aux = new pila;
 	aux->valor = x;
